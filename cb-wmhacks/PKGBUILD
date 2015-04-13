@@ -2,7 +2,7 @@
 pkgname=cb-wmhacks
 pkgver=0.06
 pkgrel=1
-pkgdesc="CrunchBang window manager hacks. Python2 script for adding hot corners and aero style window snapping to a WM or DE. Written originally for CrunchBang Linux <http://crunchbang.org/> and intended for Openbox by Philip Newborough <corenominal@corenominal.org>. Support for Python2 patched by jpope777 @ GitHub"
+pkgdesc="Python2 script for adding hot corners and aero style window snapping to a WM or DE. Written originally for CrunchBang Linux and intended for Openbox by Philip Newborough and patched for correct Python2 functionality by jpope777"
 url="https://github.com/corenominal/cb-wmhacks"
 license=('custom:"WTFPL"')
 arch=('any')
