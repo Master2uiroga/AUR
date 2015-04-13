@@ -7,7 +7,6 @@ url="https://github.com/corenominal/cb-wmhacks"
 license=('custom:"WTFPL"')
 arch=('any')
 depends=('wmctrl' 'python2-xlib' 'xdotool>=2.20110530')
-optdepends=('gmrun: for a run command dialog')
 makedepends=('git')
 provides=('cb-hotcorners' 'cb-aerosnap')
 
