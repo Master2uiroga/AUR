@@ -1,2 +1,2 @@
-# PKGBUILD
-PKGBUILDs for my Archlinux User Repository packages
+# AUR
+My PKGBUILDs and packages for my Archlinux User Repository
