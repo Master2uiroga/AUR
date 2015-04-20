@@ -10,7 +10,7 @@ CrunchBang window manager hacks. A Python2 script for adding hot corners and aer
 * Website:	http://crunchbang.org/forums/viewtopic.php?id=19180
 * Download:	http://packages.crunchbang.org/waldorf/pool/main/cb-wmhacks_0.06_all.deb
 * Bug reports:	https://github.com/corenominal/cb-wmhacks/issues
-* Source:	git clone https://github.com/corenominal/cb-wmhacks.git
+* Source:	```$ git clone https://github.com/corenominal/cb-wmhacks.git```
  
 ####Dependencies
 * wmctrl
@@ -20,8 +20,8 @@ CrunchBang window manager hacks. A Python2 script for adding hot corners and aer
 
 ####Installing
 Just extract it and run it locally or move it to your $PATH
->mv cb-hotcorners /usr/bin/cb-hotcorners
->mv cb-aerosnap /usr/bin/cb-aerosnap
+```$ mv cb-hotcorners /usr/bin/cb-hotcorners```
+```$ mv cb-aerosnap /usr/bin/cb-aerosnap```
 
 
 ## cagraph
@@ -33,7 +33,7 @@ A PyGTK widget for ploting charts and graphs using python, gtk and cairo.
 * Website:	https://code.google.com/p/cagraph/
 * Download:	https://cagraph.googlecode.com/files/cagraph-1.2.tar.gz
 * Bug reports:	https://code.google.com/p/cagraph/issues/list
-* Source:	hg clone https://code.google.com/p/cagraph/
+* Source:	```$ hg clone https://code.google.com/p/cagraph/```
 
 ####Dependencies
 * pygtk
@@ -41,7 +41,7 @@ A PyGTK widget for ploting charts and graphs using python, gtk and cairo.
  
 ####Installing
 Extract it and then run
-> python setup.py build
-> sudo python setup.py install
+```$ python setup.py build```
+```# python setup.py install```
 
 
